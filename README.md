@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Manudev2/Manudev2/tree/master/0001-two-sum) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Manudev2/Manudev2/tree/master/1338-reduce-array-size-to-the-half) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Manudev2/Manudev2/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Manudev2/Manudev2/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Manudev2/Manudev2/tree/master/0001-two-sum) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Manudev2/Manudev2/tree/master/1338-reduce-array-size-to-the-half) |
 ## Heap (Priority Queue)
 |  |
