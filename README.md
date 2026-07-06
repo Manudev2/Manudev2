@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Manudev2/Manudev2/tree/master/0001-two-sum) |
+| [0904-fruit-into-baskets](https://github.com/Manudev2/Manudev2/tree/master/0904-fruit-into-baskets) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Manudev2/Manudev2/tree/master/1338-reduce-array-size-to-the-half) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Manudev2/Manudev2/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Manudev2/Manudev2/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Manudev2/Manudev2/tree/master/0001-two-sum) |
+| [0904-fruit-into-baskets](https://github.com/Manudev2/Manudev2/tree/master/0904-fruit-into-baskets) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Manudev2/Manudev2/tree/master/1338-reduce-array-size-to-the-half) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Manudev2/Manudev2/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Heap (Priority Queue)
@@ -57,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Manudev2/Manudev2/tree/master/2563-count-the-number-of-fair-pairs) |
+## Sliding Window
+|  |
+| ------- |
+| [0904-fruit-into-baskets](https://github.com/Manudev2/Manudev2/tree/master/0904-fruit-into-baskets) |
 <!---LeetCode Topics End-->
