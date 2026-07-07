@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Manudev2/Manudev2/tree/master/0001-two-sum) |
 | [0904-fruit-into-baskets](https://github.com/Manudev2/Manudev2/tree/master/0904-fruit-into-baskets) |
+| [1250-check-if-it-is-a-good-array](https://github.com/Manudev2/Manudev2/tree/master/1250-check-if-it-is-a-good-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Manudev2/Manudev2/tree/master/1338-reduce-array-size-to-the-half) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Manudev2/Manudev2/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Manudev2/Manudev2/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -71,4 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Manudev2/Manudev2/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
+## Math
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/Manudev2/Manudev2/tree/master/1250-check-if-it-is-a-good-array) |
+## Number Theory
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/Manudev2/Manudev2/tree/master/1250-check-if-it-is-a-good-array) |
 <!---LeetCode Topics End-->
