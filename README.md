@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Manudev2/Manudev2/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Manudev2/Manudev2/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Manudev2/Manudev2/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2070-most-beautiful-item-for-each-query](https://github.com/Manudev2/Manudev2/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Manudev2/Manudev2/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Manudev2/Manudev2/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2706-buy-two-chocolates](https://github.com/Manudev2/Manudev2/tree/master/2706-buy-two-chocolates) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-reduce-array-size-to-the-half](https://github.com/Manudev2/Manudev2/tree/master/1338-reduce-array-size-to-the-half) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Manudev2/Manudev2/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Manudev2/Manudev2/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2070-most-beautiful-item-for-each-query](https://github.com/Manudev2/Manudev2/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Manudev2/Manudev2/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Manudev2/Manudev2/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2706-buy-two-chocolates](https://github.com/Manudev2/Manudev2/tree/master/2706-buy-two-chocolates) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [2070-most-beautiful-item-for-each-query](https://github.com/Manudev2/Manudev2/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Manudev2/Manudev2/tree/master/2563-count-the-number-of-fair-pairs) |
 ## Sliding Window
 |  |
