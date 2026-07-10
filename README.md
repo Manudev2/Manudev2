@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0400-nth-digit](https://github.com/Manudev2/Manudev2/tree/master/0400-nth-digit) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/Manudev2/Manudev2/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Manudev2/Manudev2/tree/master/2563-count-the-number-of-fair-pairs) |
 ## Sliding Window
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0400-nth-digit](https://github.com/Manudev2/Manudev2/tree/master/0400-nth-digit) |
 | [1250-check-if-it-is-a-good-array](https://github.com/Manudev2/Manudev2/tree/master/1250-check-if-it-is-a-good-array) |
 ## Number Theory
 |  |
