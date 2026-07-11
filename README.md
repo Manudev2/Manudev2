@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Manudev2/Manudev2/tree/master/0054-spiral-matrix) |
 | [0904-fruit-into-baskets](https://github.com/Manudev2/Manudev2/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/Manudev2/Manudev2/tree/master/0905-sort-array-by-parity) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Manudev2/Manudev2/tree/master/0918-maximum-sum-circular-subarray) |
 | [0922-sort-array-by-parity-ii](https://github.com/Manudev2/Manudev2/tree/master/0922-sort-array-by-parity-ii) |
 | [1250-check-if-it-is-a-good-array](https://github.com/Manudev2/Manudev2/tree/master/1250-check-if-it-is-a-good-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Manudev2/Manudev2/tree/master/1338-reduce-array-size-to-the-half) |
@@ -99,4 +100,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Manudev2/Manudev2/tree/master/0054-spiral-matrix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Manudev2/Manudev2/tree/master/0918-maximum-sum-circular-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Manudev2/Manudev2/tree/master/0918-maximum-sum-circular-subarray) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Manudev2/Manudev2/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Manudev2/Manudev2/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
