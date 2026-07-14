@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Manudev2/Manudev2/tree/master/0054-spiral-matrix) |
 | [0162-find-peak-element](https://github.com/Manudev2/Manudev2/tree/master/0162-find-peak-element) |
 | [0274-h-index](https://github.com/Manudev2/Manudev2/tree/master/0274-h-index) |
+| [0275-h-index-ii](https://github.com/Manudev2/Manudev2/tree/master/0275-h-index-ii) |
 | [0904-fruit-into-baskets](https://github.com/Manudev2/Manudev2/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/Manudev2/Manudev2/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Manudev2/Manudev2/tree/master/0918-maximum-sum-circular-subarray) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/Manudev2/Manudev2/tree/master/0162-find-peak-element) |
+| [0275-h-index-ii](https://github.com/Manudev2/Manudev2/tree/master/0275-h-index-ii) |
 | [0400-nth-digit](https://github.com/Manudev2/Manudev2/tree/master/0400-nth-digit) |
 | [1095-find-in-mountain-array](https://github.com/Manudev2/Manudev2/tree/master/1095-find-in-mountain-array) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/Manudev2/Manudev2/tree/master/2070-most-beautiful-item-for-each-query) |
