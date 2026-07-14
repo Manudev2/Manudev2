@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Manudev2/Manudev2/tree/master/0001-two-sum) |
 | [0054-spiral-matrix](https://github.com/Manudev2/Manudev2/tree/master/0054-spiral-matrix) |
 | [0162-find-peak-element](https://github.com/Manudev2/Manudev2/tree/master/0162-find-peak-element) |
+| [0274-h-index](https://github.com/Manudev2/Manudev2/tree/master/0274-h-index) |
 | [0904-fruit-into-baskets](https://github.com/Manudev2/Manudev2/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/Manudev2/Manudev2/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Manudev2/Manudev2/tree/master/0918-maximum-sum-circular-subarray) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0274-h-index](https://github.com/Manudev2/Manudev2/tree/master/0274-h-index) |
 | [0905-sort-array-by-parity](https://github.com/Manudev2/Manudev2/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Manudev2/Manudev2/tree/master/0922-sort-array-by-parity-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Manudev2/Manudev2/tree/master/1331-rank-transform-of-an-array) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/Manudev2/Manudev2/tree/master/0274-h-index) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Manudev2/Manudev2/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Manudev2/Manudev2/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Hash Table
