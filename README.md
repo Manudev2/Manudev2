@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/Manudev2/Manudev2/tree/master/1291-sequential-digits) |
 | [2951-find-the-peaks](https://github.com/Manudev2/Manudev2/tree/master/2951-find-the-peaks) |
 ## Interactive
 |  |
