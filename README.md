@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/Manudev2/Manudev2/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Manudev2/Manudev2/tree/master/0342-power-of-four) |
 | [0400-nth-digit](https://github.com/Manudev2/Manudev2/tree/master/0400-nth-digit) |
 | [1250-check-if-it-is-a-good-array](https://github.com/Manudev2/Manudev2/tree/master/1250-check-if-it-is-a-good-array) |
 ## Number Theory
@@ -149,4 +150,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/Manudev2/Manudev2/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Manudev2/Manudev2/tree/master/0342-power-of-four) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/Manudev2/Manudev2/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
