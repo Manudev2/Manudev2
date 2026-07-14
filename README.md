@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/Manudev2/Manudev2/tree/master/0326-power-of-three) |
 | [0400-nth-digit](https://github.com/Manudev2/Manudev2/tree/master/0400-nth-digit) |
 | [1250-check-if-it-is-a-good-array](https://github.com/Manudev2/Manudev2/tree/master/1250-check-if-it-is-a-good-array) |
 ## Number Theory
@@ -144,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1095-find-in-mountain-array](https://github.com/Manudev2/Manudev2/tree/master/1095-find-in-mountain-array) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/Manudev2/Manudev2/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
