@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Manudev2/Manudev2/tree/master/0342-power-of-four) |
 | [0400-nth-digit](https://github.com/Manudev2/Manudev2/tree/master/0400-nth-digit) |
 | [1250-check-if-it-is-a-good-array](https://github.com/Manudev2/Manudev2/tree/master/1250-check-if-it-is-a-good-array) |
+| [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Manudev2/Manudev2/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 ## Number Theory
 |  |
 | ------- |
