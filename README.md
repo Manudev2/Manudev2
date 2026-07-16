@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0541-reverse-string-ii](https://github.com/Manudev2/Manudev2/tree/master/0541-reverse-string-ii) |
+| [0633-sum-of-square-numbers](https://github.com/Manudev2/Manudev2/tree/master/0633-sum-of-square-numbers) |
 | [0905-sort-array-by-parity](https://github.com/Manudev2/Manudev2/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Manudev2/Manudev2/tree/master/0922-sort-array-by-parity-ii) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Manudev2/Manudev2/tree/master/2563-count-the-number-of-fair-pairs) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Manudev2/Manudev2/tree/master/0162-find-peak-element) |
 | [0275-h-index-ii](https://github.com/Manudev2/Manudev2/tree/master/0275-h-index-ii) |
 | [0400-nth-digit](https://github.com/Manudev2/Manudev2/tree/master/0400-nth-digit) |
+| [0633-sum-of-square-numbers](https://github.com/Manudev2/Manudev2/tree/master/0633-sum-of-square-numbers) |
 | [1095-find-in-mountain-array](https://github.com/Manudev2/Manudev2/tree/master/1095-find-in-mountain-array) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/Manudev2/Manudev2/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Manudev2/Manudev2/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Manudev2/Manudev2/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Manudev2/Manudev2/tree/master/0342-power-of-four) |
 | [0400-nth-digit](https://github.com/Manudev2/Manudev2/tree/master/0400-nth-digit) |
+| [0633-sum-of-square-numbers](https://github.com/Manudev2/Manudev2/tree/master/0633-sum-of-square-numbers) |
 | [1250-check-if-it-is-a-good-array](https://github.com/Manudev2/Manudev2/tree/master/1250-check-if-it-is-a-good-array) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Manudev2/Manudev2/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 ## Number Theory
