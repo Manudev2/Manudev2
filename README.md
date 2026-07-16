@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/Manudev2/Manudev2/tree/master/0172-factorial-trailing-zeroes) |
 | [0326-power-of-three](https://github.com/Manudev2/Manudev2/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Manudev2/Manudev2/tree/master/0342-power-of-four) |
 | [0400-nth-digit](https://github.com/Manudev2/Manudev2/tree/master/0400-nth-digit) |
