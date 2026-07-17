@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2563-count-the-number-of-fair-pairs](https://github.com/Manudev2/Manudev2/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Manudev2/Manudev2/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2706-buy-two-chocolates](https://github.com/Manudev2/Manudev2/tree/master/2706-buy-two-chocolates) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Manudev2/Manudev2/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2942-find-words-containing-character](https://github.com/Manudev2/Manudev2/tree/master/2942-find-words-containing-character) |
 | [2951-find-the-peaks](https://github.com/Manudev2/Manudev2/tree/master/2951-find-the-peaks) |
 | [3285-find-indices-of-stable-mountains](https://github.com/Manudev2/Manudev2/tree/master/3285-find-indices-of-stable-mountains) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Manudev2/Manudev2/tree/master/1291-sequential-digits) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Manudev2/Manudev2/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2951-find-the-peaks](https://github.com/Manudev2/Manudev2/tree/master/2951-find-the-peaks) |
 ## Interactive
 |  |
