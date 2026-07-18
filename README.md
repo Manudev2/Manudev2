@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Manudev2/Manudev2/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Manudev2/Manudev2/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Manudev2/Manudev2/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Manudev2/Manudev2/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Manudev2/Manudev2/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Manudev2/Manudev2/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/Manudev2/Manudev2/tree/master/2070-most-beautiful-item-for-each-query) |
@@ -122,10 +123,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-check-if-it-is-a-good-array](https://github.com/Manudev2/Manudev2/tree/master/1250-check-if-it-is-a-good-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Manudev2/Manudev2/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Manudev2/Manudev2/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Manudev2/Manudev2/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
 |  |
 | ------- |
 | [1250-check-if-it-is-a-good-array](https://github.com/Manudev2/Manudev2/tree/master/1250-check-if-it-is-a-good-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Manudev2/Manudev2/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Matrix
 |  |
 | ------- |
