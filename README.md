@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Manudev2/Manudev2/tree/master/0032-longest-valid-parentheses) |
 | [0541-reverse-string-ii](https://github.com/Manudev2/Manudev2/tree/master/0541-reverse-string-ii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Manudev2/Manudev2/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2942-find-words-containing-character](https://github.com/Manudev2/Manudev2/tree/master/2942-find-words-containing-character) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Manudev2/Manudev2/tree/master/0032-longest-valid-parentheses) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Manudev2/Manudev2/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
 |  |
@@ -177,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/Manudev2/Manudev2/tree/master/0342-power-of-four) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Manudev2/Manudev2/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
