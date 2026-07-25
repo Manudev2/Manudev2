@@ -1,21 +1,19 @@
 class Solution {
 public:
     int maxProduct(int n) {
-        vector<int> v;
-
-        while (n > 0) {
-            v.push_back(n % 10);
-            n /= 10;
-        }
-
-        int ans = 0;
-
-        for (int i = 0; i < v.size(); i++) {
-            for (int j = i + 1; j < v.size(); j++) {
-                ans = max(ans, v[i] * v[j]);
+        int ans=1;
+        int first=0,sec=0;
+        while(n>0){
+            int dig=n%10;
+            if(dig>first){
+                sec=first;
+                first=dig;
             }
+            else if( dig>sec){
+               sec=dig;
+            }
+            n/=10;
         }
-
-        return ans;
+        return first*sec;
     }
 };
