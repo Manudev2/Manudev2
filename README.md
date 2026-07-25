@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Manudev2/Manudev2/tree/master/0001-two-sum) |
 | [0054-spiral-matrix](https://github.com/Manudev2/Manudev2/tree/master/0054-spiral-matrix) |
 | [0162-find-peak-element](https://github.com/Manudev2/Manudev2/tree/master/0162-find-peak-element) |
+| [0179-largest-number](https://github.com/Manudev2/Manudev2/tree/master/0179-largest-number) |
 | [0274-h-index](https://github.com/Manudev2/Manudev2/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/Manudev2/Manudev2/tree/master/0275-h-index-ii) |
 | [0454-4sum-ii](https://github.com/Manudev2/Manudev2/tree/master/0454-4sum-ii) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Manudev2/Manudev2/tree/master/0179-largest-number) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Manudev2/Manudev2/tree/master/1338-reduce-array-size-to-the-half) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Manudev2/Manudev2/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Manudev2/Manudev2/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Manudev2/Manudev2/tree/master/0179-largest-number) |
 | [0274-h-index](https://github.com/Manudev2/Manudev2/tree/master/0274-h-index) |
 | [0905-sort-array-by-parity](https://github.com/Manudev2/Manudev2/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Manudev2/Manudev2/tree/master/0922-sort-array-by-parity-ii) |
@@ -64,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Manudev2/Manudev2/tree/master/0032-longest-valid-parentheses) |
+| [0179-largest-number](https://github.com/Manudev2/Manudev2/tree/master/0179-largest-number) |
 | [0541-reverse-string-ii](https://github.com/Manudev2/Manudev2/tree/master/0541-reverse-string-ii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Manudev2/Manudev2/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2942-find-words-containing-character](https://github.com/Manudev2/Manudev2/tree/master/2942-find-words-containing-character) |
