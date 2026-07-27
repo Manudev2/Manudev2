@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Manudev2/Manudev2/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Manudev2/Manudev2/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2706-buy-two-chocolates](https://github.com/Manudev2/Manudev2/tree/master/2706-buy-two-chocolates) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Manudev2/Manudev2/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Manudev2/Manudev2/tree/master/3536-maximum-product-of-two-digits) |
 ## String
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/Manudev2/Manudev2/tree/master/0541-reverse-string-ii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Manudev2/Manudev2/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Manudev2/Manudev2/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Manudev2/Manudev2/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2942-find-words-containing-character](https://github.com/Manudev2/Manudev2/tree/master/2942-find-words-containing-character) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Manudev2/Manudev2/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Counting Sort
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Manudev2/Manudev2/tree/master/1331-rank-transform-of-an-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Manudev2/Manudev2/tree/master/1338-reduce-array-size-to-the-half) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Manudev2/Manudev2/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Manudev2/Manudev2/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
