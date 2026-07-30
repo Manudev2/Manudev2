@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Manudev2/Manudev2/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Manudev2/Manudev2/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3663-find-the-least-frequent-digit](https://github.com/Manudev2/Manudev2/tree/master/3663-find-the-least-frequent-digit) |
+| [3678-smallest-absent-positive-greater-than-average](https://github.com/Manudev2/Manudev2/tree/master/3678-smallest-absent-positive-greater-than-average) |
 ## Greedy
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Manudev2/Manudev2/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Manudev2/Manudev2/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3663-find-the-least-frequent-digit](https://github.com/Manudev2/Manudev2/tree/master/3663-find-the-least-frequent-digit) |
+| [3678-smallest-absent-positive-greater-than-average](https://github.com/Manudev2/Manudev2/tree/master/3678-smallest-absent-positive-greater-than-average) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
