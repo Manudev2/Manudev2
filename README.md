@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Manudev2/Manudev2/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/Manudev2/Manudev2/tree/master/0275-h-index-ii) |
 | [0454-4sum-ii](https://github.com/Manudev2/Manudev2/tree/master/0454-4sum-ii) |
+| [0888-fair-candy-swap](https://github.com/Manudev2/Manudev2/tree/master/0888-fair-candy-swap) |
 | [0904-fruit-into-baskets](https://github.com/Manudev2/Manudev2/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/Manudev2/Manudev2/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Manudev2/Manudev2/tree/master/0918-maximum-sum-circular-subarray) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/Manudev2/Manudev2/tree/master/0179-largest-number) |
 | [0274-h-index](https://github.com/Manudev2/Manudev2/tree/master/0274-h-index) |
+| [0888-fair-candy-swap](https://github.com/Manudev2/Manudev2/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/Manudev2/Manudev2/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Manudev2/Manudev2/tree/master/0922-sort-array-by-parity-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Manudev2/Manudev2/tree/master/1331-rank-transform-of-an-array) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Manudev2/Manudev2/tree/master/0001-two-sum) |
 | [0454-4sum-ii](https://github.com/Manudev2/Manudev2/tree/master/0454-4sum-ii) |
+| [0888-fair-candy-swap](https://github.com/Manudev2/Manudev2/tree/master/0888-fair-candy-swap) |
 | [0904-fruit-into-baskets](https://github.com/Manudev2/Manudev2/tree/master/0904-fruit-into-baskets) |
 | [1331-rank-transform-of-an-array](https://github.com/Manudev2/Manudev2/tree/master/1331-rank-transform-of-an-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Manudev2/Manudev2/tree/master/1338-reduce-array-size-to-the-half) |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/Manudev2/Manudev2/tree/master/0275-h-index-ii) |
 | [0400-nth-digit](https://github.com/Manudev2/Manudev2/tree/master/0400-nth-digit) |
 | [0633-sum-of-square-numbers](https://github.com/Manudev2/Manudev2/tree/master/0633-sum-of-square-numbers) |
+| [0888-fair-candy-swap](https://github.com/Manudev2/Manudev2/tree/master/0888-fair-candy-swap) |
 | [1095-find-in-mountain-array](https://github.com/Manudev2/Manudev2/tree/master/1095-find-in-mountain-array) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/Manudev2/Manudev2/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Manudev2/Manudev2/tree/master/2089-find-target-indices-after-sorting-array) |
