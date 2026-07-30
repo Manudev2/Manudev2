@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/Manudev2/Manudev2/tree/master/2942-find-words-containing-character) |
 | [2951-find-the-peaks](https://github.com/Manudev2/Manudev2/tree/master/2951-find-the-peaks) |
 | [3285-find-indices-of-stable-mountains](https://github.com/Manudev2/Manudev2/tree/master/3285-find-indices-of-stable-mountains) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Manudev2/Manudev2/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Greedy
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Manudev2/Manudev2/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Manudev2/Manudev2/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Manudev2/Manudev2/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Manudev2/Manudev2/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
