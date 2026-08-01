@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Manudev2/Manudev2/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Manudev2/Manudev2/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Manudev2/Manudev2/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2367-number-of-arithmetic-triplets](https://github.com/Manudev2/Manudev2/tree/master/2367-number-of-arithmetic-triplets) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Manudev2/Manudev2/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Manudev2/Manudev2/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2706-buy-two-chocolates](https://github.com/Manudev2/Manudev2/tree/master/2706-buy-two-chocolates) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/Manudev2/Manudev2/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Manudev2/Manudev2/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Manudev2/Manudev2/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2367-number-of-arithmetic-triplets](https://github.com/Manudev2/Manudev2/tree/master/2367-number-of-arithmetic-triplets) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Manudev2/Manudev2/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Manudev2/Manudev2/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Manudev2/Manudev2/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Manudev2/Manudev2/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Manudev2/Manudev2/tree/master/0922-sort-array-by-parity-ii) |
 | [0923-3sum-with-multiplicity](https://github.com/Manudev2/Manudev2/tree/master/0923-3sum-with-multiplicity) |
+| [2367-number-of-arithmetic-triplets](https://github.com/Manudev2/Manudev2/tree/master/2367-number-of-arithmetic-triplets) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/Manudev2/Manudev2/tree/master/2563-count-the-number-of-fair-pairs) |
 ## Binary Search
 |  |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Manudev2/Manudev2/tree/master/1291-sequential-digits) |
+| [2367-number-of-arithmetic-triplets](https://github.com/Manudev2/Manudev2/tree/master/2367-number-of-arithmetic-triplets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Manudev2/Manudev2/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2951-find-the-peaks](https://github.com/Manudev2/Manudev2/tree/master/2951-find-the-peaks) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Manudev2/Manudev2/tree/master/3499-maximize-active-section-with-trade-i) |
