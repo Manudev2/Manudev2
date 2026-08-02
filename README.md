@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Manudev2/Manudev2/tree/master/0162-find-peak-element) |
 | [0275-h-index-ii](https://github.com/Manudev2/Manudev2/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/Manudev2/Manudev2/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/Manudev2/Manudev2/tree/master/0374-guess-number-higher-or-lower) |
 | [0400-nth-digit](https://github.com/Manudev2/Manudev2/tree/master/0400-nth-digit) |
 | [0633-sum-of-square-numbers](https://github.com/Manudev2/Manudev2/tree/master/0633-sum-of-square-numbers) |
 | [0888-fair-candy-swap](https://github.com/Manudev2/Manudev2/tree/master/0888-fair-candy-swap) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Manudev2/Manudev2/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/Manudev2/Manudev2/tree/master/0374-guess-number-higher-or-lower) |
 | [1095-find-in-mountain-array](https://github.com/Manudev2/Manudev2/tree/master/1095-find-in-mountain-array) |
 ## Recursion
 |  |
