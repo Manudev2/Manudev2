@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Manudev2/Manudev2/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/Manudev2/Manudev2/tree/master/0275-h-index-ii) |
 | [0454-4sum-ii](https://github.com/Manudev2/Manudev2/tree/master/0454-4sum-ii) |
+| [0658-find-k-closest-elements](https://github.com/Manudev2/Manudev2/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Manudev2/Manudev2/tree/master/0692-top-k-frequent-words) |
 | [0888-fair-candy-swap](https://github.com/Manudev2/Manudev2/tree/master/0888-fair-candy-swap) |
 | [0904-fruit-into-baskets](https://github.com/Manudev2/Manudev2/tree/master/0904-fruit-into-baskets) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/Manudev2/Manudev2/tree/master/0179-largest-number) |
 | [0274-h-index](https://github.com/Manudev2/Manudev2/tree/master/0274-h-index) |
+| [0658-find-k-closest-elements](https://github.com/Manudev2/Manudev2/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Manudev2/Manudev2/tree/master/0692-top-k-frequent-words) |
 | [0888-fair-candy-swap](https://github.com/Manudev2/Manudev2/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/Manudev2/Manudev2/tree/master/0905-sort-array-by-parity) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/Manudev2/Manudev2/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Manudev2/Manudev2/tree/master/0692-top-k-frequent-words) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Manudev2/Manudev2/tree/master/1338-reduce-array-size-to-the-half) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Manudev2/Manudev2/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0541-reverse-string-ii](https://github.com/Manudev2/Manudev2/tree/master/0541-reverse-string-ii) |
 | [0633-sum-of-square-numbers](https://github.com/Manudev2/Manudev2/tree/master/0633-sum-of-square-numbers) |
+| [0658-find-k-closest-elements](https://github.com/Manudev2/Manudev2/tree/master/0658-find-k-closest-elements) |
 | [0905-sort-array-by-parity](https://github.com/Manudev2/Manudev2/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Manudev2/Manudev2/tree/master/0922-sort-array-by-parity-ii) |
 | [0923-3sum-with-multiplicity](https://github.com/Manudev2/Manudev2/tree/master/0923-3sum-with-multiplicity) |
@@ -158,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/Manudev2/Manudev2/tree/master/0374-guess-number-higher-or-lower) |
 | [0400-nth-digit](https://github.com/Manudev2/Manudev2/tree/master/0400-nth-digit) |
 | [0633-sum-of-square-numbers](https://github.com/Manudev2/Manudev2/tree/master/0633-sum-of-square-numbers) |
+| [0658-find-k-closest-elements](https://github.com/Manudev2/Manudev2/tree/master/0658-find-k-closest-elements) |
 | [0888-fair-candy-swap](https://github.com/Manudev2/Manudev2/tree/master/0888-fair-candy-swap) |
 | [1095-find-in-mountain-array](https://github.com/Manudev2/Manudev2/tree/master/1095-find-in-mountain-array) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/Manudev2/Manudev2/tree/master/2070-most-beautiful-item-for-each-query) |
@@ -166,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/Manudev2/Manudev2/tree/master/0658-find-k-closest-elements) |
 | [0904-fruit-into-baskets](https://github.com/Manudev2/Manudev2/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
 |  |
