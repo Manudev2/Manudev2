@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Manudev2/Manudev2/tree/master/0179-largest-number) |
+| [0402-remove-k-digits](https://github.com/Manudev2/Manudev2/tree/master/0402-remove-k-digits) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Manudev2/Manudev2/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Manudev2/Manudev2/tree/master/1338-reduce-array-size-to-the-half) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Manudev2/Manudev2/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Manudev2/Manudev2/tree/master/0032-longest-valid-parentheses) |
 | [0179-largest-number](https://github.com/Manudev2/Manudev2/tree/master/0179-largest-number) |
+| [0402-remove-k-digits](https://github.com/Manudev2/Manudev2/tree/master/0402-remove-k-digits) |
 | [0541-reverse-string-ii](https://github.com/Manudev2/Manudev2/tree/master/0541-reverse-string-ii) |
 | [0692-top-k-frequent-words](https://github.com/Manudev2/Manudev2/tree/master/0692-top-k-frequent-words) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Manudev2/Manudev2/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Manudev2/Manudev2/tree/master/0032-longest-valid-parentheses) |
+| [0402-remove-k-digits](https://github.com/Manudev2/Manudev2/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/Manudev2/Manudev2/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Manudev2/Manudev2/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Trie
@@ -267,5 +270,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/Manudev2/Manudev2/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/Manudev2/Manudev2/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
