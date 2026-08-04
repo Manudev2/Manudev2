@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/Manudev2/Manudev2/tree/master/0454-4sum-ii) |
 | [0658-find-k-closest-elements](https://github.com/Manudev2/Manudev2/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Manudev2/Manudev2/tree/master/0692-top-k-frequent-words) |
+| [0739-daily-temperatures](https://github.com/Manudev2/Manudev2/tree/master/0739-daily-temperatures) |
 | [0888-fair-candy-swap](https://github.com/Manudev2/Manudev2/tree/master/0888-fair-candy-swap) |
 | [0904-fruit-into-baskets](https://github.com/Manudev2/Manudev2/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/Manudev2/Manudev2/tree/master/0905-sort-array-by-parity) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Manudev2/Manudev2/tree/master/0032-longest-valid-parentheses) |
+| [0739-daily-temperatures](https://github.com/Manudev2/Manudev2/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Manudev2/Manudev2/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Trie
 |  |
@@ -262,4 +264,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Manudev2/Manudev2/tree/master/0692-top-k-frequent-words) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Manudev2/Manudev2/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
