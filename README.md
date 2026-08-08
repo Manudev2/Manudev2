@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Manudev2/Manudev2/tree/master/0179-largest-number) |
 | [0274-h-index](https://github.com/Manudev2/Manudev2/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/Manudev2/Manudev2/tree/master/0275-h-index-ii) |
+| [0303-range-sum-query-immutable](https://github.com/Manudev2/Manudev2/tree/master/0303-range-sum-query-immutable) |
 | [0454-4sum-ii](https://github.com/Manudev2/Manudev2/tree/master/0454-4sum-ii) |
 | [0658-find-k-closest-elements](https://github.com/Manudev2/Manudev2/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Manudev2/Manudev2/tree/master/0692-top-k-frequent-words) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Manudev2/Manudev2/tree/master/0303-range-sum-query-immutable) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Manudev2/Manudev2/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Manudev2/Manudev2/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Manudev2/Manudev2/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
@@ -283,4 +285,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/Manudev2/Manudev2/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/Manudev2/Manudev2/tree/master/0739-daily-temperatures) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Manudev2/Manudev2/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
