@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/Manudev2/Manudev2/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2942-find-words-containing-character](https://github.com/Manudev2/Manudev2/tree/master/2942-find-words-containing-character) |
 | [2951-find-the-peaks](https://github.com/Manudev2/Manudev2/tree/master/2951-find-the-peaks) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Manudev2/Manudev2/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3285-find-indices-of-stable-mountains](https://github.com/Manudev2/Manudev2/tree/master/3285-find-indices-of-stable-mountains) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Manudev2/Manudev2/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Manudev2/Manudev2/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2563-count-the-number-of-fair-pairs](https://github.com/Manudev2/Manudev2/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2706-buy-two-chocolates](https://github.com/Manudev2/Manudev2/tree/master/2706-buy-two-chocolates) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Manudev2/Manudev2/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Manudev2/Manudev2/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Manudev2/Manudev2/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Manudev2/Manudev2/tree/master/3536-maximum-product-of-two-digits) |
 ## String
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Manudev2/Manudev2/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Manudev2/Manudev2/tree/master/2367-number-of-arithmetic-triplets) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Manudev2/Manudev2/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Manudev2/Manudev2/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Manudev2/Manudev2/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Manudev2/Manudev2/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Manudev2/Manudev2/tree/master/3541-find-most-frequent-vowel-and-consonant) |
