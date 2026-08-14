@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2706-buy-two-chocolates](https://github.com/Manudev2/Manudev2/tree/master/2706-buy-two-chocolates) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Manudev2/Manudev2/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/Manudev2/Manudev2/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
+| [2874-maximum-value-of-an-ordered-triplet-ii](https://github.com/Manudev2/Manudev2/tree/master/2874-maximum-value-of-an-ordered-triplet-ii) |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/Manudev2/Manudev2/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
 | [2942-find-words-containing-character](https://github.com/Manudev2/Manudev2/tree/master/2942-find-words-containing-character) |
 | [2951-find-the-peaks](https://github.com/Manudev2/Manudev2/tree/master/2951-find-the-peaks) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Manudev2/Manudev2/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Manudev2/Manudev2/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/Manudev2/Manudev2/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
+| [2874-maximum-value-of-an-ordered-triplet-ii](https://github.com/Manudev2/Manudev2/tree/master/2874-maximum-value-of-an-ordered-triplet-ii) |
 ## Math
 |  |
 | ------- |
