@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Manudev2/Manudev2/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Manudev2/Manudev2/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Manudev2/Manudev2/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1652-defuse-the-bomb](https://github.com/Manudev2/Manudev2/tree/master/1652-defuse-the-bomb) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Manudev2/Manudev2/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Manudev2/Manudev2/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Manudev2/Manudev2/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/Manudev2/Manudev2/tree/master/0658-find-k-closest-elements) |
 | [0904-fruit-into-baskets](https://github.com/Manudev2/Manudev2/tree/master/0904-fruit-into-baskets) |
+| [1652-defuse-the-bomb](https://github.com/Manudev2/Manudev2/tree/master/1652-defuse-the-bomb) |
 ## Prefix Sum
 |  |
 | ------- |
