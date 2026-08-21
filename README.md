@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Manudev2/Manudev2/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3663-find-the-least-frequent-digit](https://github.com/Manudev2/Manudev2/tree/master/3663-find-the-least-frequent-digit) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/Manudev2/Manudev2/tree/master/3678-smallest-absent-positive-greater-than-average) |
+| [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/Manudev2/Manudev2/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 ## Greedy
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Manudev2/Manudev2/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2706-buy-two-chocolates](https://github.com/Manudev2/Manudev2/tree/master/2706-buy-two-chocolates) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Manudev2/Manudev2/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
+| [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/Manudev2/Manudev2/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 ## Sorting
 |  |
 | ------- |
