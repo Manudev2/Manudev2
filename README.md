@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Manudev2/Manudev2/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2070-most-beautiful-item-for-each-query](https://github.com/Manudev2/Manudev2/tree/master/2070-most-beautiful-item-for-each-query) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Manudev2/Manudev2/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Manudev2/Manudev2/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Manudev2/Manudev2/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Manudev2/Manudev2/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Manudev2/Manudev2/tree/master/2367-number-of-arithmetic-triplets) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-reduce-array-size-to-the-half](https://github.com/Manudev2/Manudev2/tree/master/1338-reduce-array-size-to-the-half) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Manudev2/Manudev2/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Manudev2/Manudev2/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Manudev2/Manudev2/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Manudev2/Manudev2/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/Manudev2/Manudev2/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2706-buy-two-chocolates](https://github.com/Manudev2/Manudev2/tree/master/2706-buy-two-chocolates) |
