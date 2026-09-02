@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Manudev2/Manudev2/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3663-find-the-least-frequent-digit](https://github.com/Manudev2/Manudev2/tree/master/3663-find-the-least-frequent-digit) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/Manudev2/Manudev2/tree/master/3678-smallest-absent-positive-greater-than-average) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Manudev2/Manudev2/tree/master/3875-construct-uniform-parity-array-i) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/Manudev2/Manudev2/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 ## Greedy
 |  |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/Manudev2/Manudev2/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Manudev2/Manudev2/tree/master/3536-maximum-product-of-two-digits) |
 | [3663-find-the-least-frequent-digit](https://github.com/Manudev2/Manudev2/tree/master/3663-find-the-least-frequent-digit) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Manudev2/Manudev2/tree/master/3875-construct-uniform-parity-array-i) |
 ## Number Theory
 |  |
 | ------- |
